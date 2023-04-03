@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋🏻, I'm Arthur Messias</h1>
 <h3 align="center">I'm a Data Scientist, working as a Consultant at KPMG and a Projects Tutor at @somostera!</h3>
 
-- 💻 I’m currently learning about **Data Science and Cloud Computing**
+A passionate Data Scientist working as a Consultant at KPMG and a Projects Tutor at TERA (@somostera). With a strong foundation in Civil Engineering and Geophysics, I'm currently expanding my expertise in Data Science, Big Data BI, and Data Engineering. I'm also enthusiastic about Cloud Computing and hold certifications in AZ-900, AI-900, and DP-900.
 
-- 🤜🏻🤛🏻 I’m looking to collaborate on **Python based projects**
+🚀 I'm eager to collaborate on Python-based projects that leverage the power of data to drive insights and create innovative solutions.
 
-- 📧 How to reach me? **Connect to me via Email: arthurmessias@msn.com**
+🌎 Having traveled to over 20 countries and lived, studied, and worked abroad, I bring a unique global perspective and adaptability to my work and collaborations.
 
-- ⚡ Fun fact: **I love to listen to music**
+📫 Feel free to connect with me via email at arthurmessias@msn.com or reach out to me on LinkedIn.
+
+🎵 Fun fact: I'm an avid music listener and enjoy exploring new genres and artists in my free time.
+
+Let's work together to push the boundaries of data science and make a meaningful impact in the tech world!
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
